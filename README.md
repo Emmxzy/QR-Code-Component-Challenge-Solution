@@ -21,15 +21,6 @@ Your challenge is to build a responsive QR code component that matches the provi
 - Match the design's visual appearance.  
 - Make the layout responsive for desktop and mobile screens.  
 
-### Screenshot  
-
-![Screenshot of the completed QR Code Component](./screenshot.png)  
-
-### Links  
-- **Solution URL:** [Add solution link here](#)  
-- **Live Site URL:** [Add live site link here](#)  
-
----
 
 ## My Process  
 
